@@ -2,7 +2,7 @@ button {
     border: 1px solid #5e687c;
     border-radius: 15px;
     background: #282c34;
-    color: white;
+    color: #5e687c;
     width: 75px;
     height: 60.2332px;
     margin-left: 10px;
@@ -10,5 +10,5 @@ button {
 
 button:hover {
     border: 1px solid silver;
-    background-color: #5e687c;
+    color: silver;
 }
