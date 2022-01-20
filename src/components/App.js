@@ -2,7 +2,7 @@ import '../style/App.css';
 import Button from '../components/Button'
 import InputColor from '../components/InputColor'
 
-function App() {
+const App = () => {
     return (
         <div className="App">
             <header id="App-header">
